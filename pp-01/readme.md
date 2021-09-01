@@ -1,5 +1,7 @@
 ## ITMD 361, Production Problem 01: Cloning and Committing to a Git Repository
 
+Hello!
+
 For this production problem, you will learn to fork, clone, commit, and then push and comment on
 changes to a remote GitHub repository. Follow the steps below exactly to receive full credit.
 
